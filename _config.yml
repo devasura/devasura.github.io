@@ -26,3 +26,8 @@ github_username:  devasura
 # Build settings
 markdown: kramdown
 theme: minima
+
+#collections
+collections:
+  notes:
+    output: true
